@@ -1,3 +1,3 @@
 # maridemo
 
-Video demonstration of UI swiping functionality and Google OAuth login using Expo.
+First look at the UI swiping functionality and Google OAuth login using Expo.

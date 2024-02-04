@@ -1,6 +1,6 @@
 # maridemo
 
-First look at the UI swiping functionality and Google OAuth login using Expo, before backend.
+first look at mari ui
 
 
 ![](https://j.gifs.com/QklnzL.gif)
